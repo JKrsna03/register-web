@@ -12,7 +12,7 @@ console.warn("Warning")
 console.log(typeof(true))
 
 //declaration of variables
-let name = "John Krsna"; //string
+let name = "John Krsna" //string
     lastname = `Tipones` //string
     age = 20; //number
     isStudent = true; //boolean
