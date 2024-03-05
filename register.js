@@ -24,7 +24,7 @@ let name = "John Krsna"; //string
         console.log("Im Running")
     };
 
-console.log(name,age,isStudent,hobbies, run)
+console.log(name, age, isStudent, hobbies, run)
 console.log(typeof run)
 console.table(hobbies)
 console.log("My name is "+ name + " " + lastname)
